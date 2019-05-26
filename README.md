@@ -22,7 +22,8 @@ Run from the web server.
 
 ## Install
 
-1. Set original images to './images/'.
+1. Make folder './images', './yes' and './no'.
+1. Set original images to './images'.
 1. Upload to the web server.
 1. Change folder write attributes to './yes' and './no'.
 
