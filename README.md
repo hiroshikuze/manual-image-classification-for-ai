@@ -1,7 +1,5 @@
 # Manual image classification for ai
 
-====
-
 Manually enter the correctness of the jpeg or png or gif image and copy the reduced image to each folder.  
  (Use for supervised learning of image correctness to AI)  
 
